@@ -149,21 +149,6 @@
       "title": "Мужские Кроссовки Nike LeBron XVIII",
       "price": "15990",
       "photo": "./images/sneakers/sneaker-8.jpg"
-    },
-    {
-      "title": "Мужские Кроссовки Nike Lebron XVIII Low",
-      "price": "14990",
-      "photo": "./images/sneakers/sneaker-9.jpg"
-    },
-    {
-      "title": "Кроссовки Puma X Aka Boku Future Rider",
-      "price": "8999",
-      "photo": "./images/sneakers/sneaker-10.jpg"
-    },
-    {
-      "title": "Мужские Кроссовки Nike Kyrie Flytrap IV",
-      "price": "10299",
-      "photo": "./images/sneakers/sneaker-11.jpg"
     }
   ]
 }
